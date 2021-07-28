@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+}
+.items{
+    display: flex;
+}
+a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+  }
+  
+  a:hover {
+    background-color:#797676;
+    color: black;
+  }
+  
+  .gallery-back {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  
