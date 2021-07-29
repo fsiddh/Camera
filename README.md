@@ -1,5 +1,13 @@
 # Theory
 
+## Camera 
+![image](https://user-images.githubusercontent.com/56497318/127527955-18c76524-aa6f-437c-b382-526a962fd8d0.png)
+
+## Gallery
+![image](https://user-images.githubusercontent.com/56497318/127528295-57fb0c9c-1ef7-44e1-a002-95fa8b806078.png)
+
+
+
 # References
 * https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Drawing_graphics
 * https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia
